@@ -8,7 +8,7 @@ const __DATA__ = {
     'name': 'Nguyễn Phong',
     'skills': [
         'Singer',
-        'Chef',
+        
         
     ],
     'bio-storys': [{
