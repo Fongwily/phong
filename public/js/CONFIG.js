@@ -25,7 +25,7 @@ const __DATA__ = {
         },
         {
             'image': 'zalo.jpg',
-            'title': 'Zalo',
+            'title': 'Zalo', 
             'show-value': 'Nguyễn Phong',
             'value': 'https://zalo.me/0372458468',
             'type': 0,
@@ -41,15 +41,15 @@ const __DATA__ = {
         {
             'image': 'phone.jpg',
             'title': 'MB Bank',
-            'show-value': '0866051437',
-            'value': '0866051437',
+            'show-value': '01234567',
+            'value': '01234567',
             'type': 1,
         },
         {
             'image': 'momo.jpg',
             'title': 'MoMo',
-            'show-value': '0866051437',
-            'value': '0866051437',
+            'show-value': '01234567',
+            'value': '01234567',
             'type': 1,
         }
     ]
