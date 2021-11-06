@@ -10,7 +10,7 @@ const __DATA__ = {
         'Singer',
         'Chef',
         'Travel',
-        'free',
+        'Alone',
         
         
     ],
