@@ -7,7 +7,7 @@ const __DATA__ = {
     'avatar-image': 'avatar.jpg',
     'name': 'Nguyễn Phong',
     'skills': [
-        'Singer' 'Chef',
+        'Singer''Chef',
         
         
     ],
