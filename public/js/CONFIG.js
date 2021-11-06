@@ -7,7 +7,7 @@ const __DATA__ = {
     'avatar-image': 'avatar.jpg',
     'name': 'Nguyễn Phong',
     'skills': [
-        'Singer'
+        'Singer',
         'Chef',
         
         
@@ -15,7 +15,7 @@ const __DATA__ = {
     'bio-storys': [{
         'image': 'admin.png',
         'content': 'Giới thiệu',
-        'author': 'Chào Bạn 👋,tui sống tại TP Hà Nội,1 HS THPT',
+        'author': 'Hello,I'm Phong,and I'm 15 years old',
     }, ],
     'links': [{
             'image': 'facebook.jpg',
