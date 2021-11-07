@@ -50,7 +50,7 @@ $(document).ready(function() {
             `;
         } else {
             skills_html += `
-                <div class="skill-item" style="color: #85D18A;" >${skills[i]}</div>
+                <div class="skill-item" style="color: #EF9D64;" >${skills[i]}</div>
             `;
         }
     }
@@ -116,7 +116,7 @@ $(document).ready(function() {
 
     container.innerHTML += `
     <div id="content-body">
-        <p class="drop-title">Liên Kết Cá Nhân</p>
+        <p class="drop-title">INFORMATION</p>
         <div id="link-box">
             ${links_html}
         </div>
