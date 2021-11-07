@@ -17,8 +17,7 @@ const __DATA__ = {
     'bio-storys': [{
         'image': 'avatar.jpg',
         'content': 'Giới thiệu',
-        'author': 'Hello,I am Phong,and I am 15 years old
-This is my phone:0372458468',
+        'author': 'Hello,I am Phong,and I am 15 years old,nice to meet you:3',
     }, ],
     'links': [{
             'image': 'facebook.jpg',
