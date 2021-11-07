@@ -17,7 +17,7 @@ const __DATA__ = {
     'bio-storys': [{
         'image': 'avatar.jpg',
         'content': 'Giới thiệu',
-        'author': 'yeucau❤️',
+        'author': 'hellomoinguoiminhlaPhongday<3',
     }, ],
     'links': [{
             'image': 'facebook.jpg',
