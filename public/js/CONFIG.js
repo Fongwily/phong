@@ -1,6 +1,6 @@
 const __DATA__ = {
     'config': {
-        'title': 'INFO|Nguyễn Phong',
+        'title': 'INFO|Phong Nguyễn',
         'favicon': 'home.png',
     },
     'cover-image': 'bia.jpg',
