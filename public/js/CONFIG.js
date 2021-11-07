@@ -18,7 +18,7 @@ const __DATA__ = {
         'image': 'avatar.jpg',
         'content': 'Giới thiệu',
         'author': 'Hello,I am Phong,and I am 15 years old
-                   This is my phone:0372458468',
+This is my phone:0372458468',
     }, ],
     'links': [{
             'image': 'facebook.jpg',
