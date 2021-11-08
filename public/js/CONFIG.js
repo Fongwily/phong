@@ -44,15 +44,15 @@ const __DATA__ = {
         {
             'image': 'phone.jpg',
             'title': 'MB Bank',
-            'show-value': '17122000000',
-            'value': '17122000000',
+            'show-value': '00000000',
+            'value': '00000000',
             'type': 1,
         },
         {
             'image': 'momo.jpg',
             'title': 'MoMo',
-            'show-value': '17122000000',
-            'value': '17122000000',
+            'show-value': '00000000',
+            'value': '00000000',
             'type': 1,
         }
     ]
