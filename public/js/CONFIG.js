@@ -9,7 +9,7 @@ const __DATA__ = {
     'skills': [
         'Singer',
         'Chef',
-        'Loser',
+        'Simple',
         'Alone',
         
         
