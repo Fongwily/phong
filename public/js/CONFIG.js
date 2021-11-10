@@ -34,7 +34,7 @@ const __DATA__ = {
             'type': 0,
         },
         {
-            'image': 'avatar.jpg',
+            'image': 'facebook.jpg',
             'title': 'Instagram',
             'show-value': 'Nguyễn Phong',
             'value': 'https://www.instagram.com/ph.ong5374/',
