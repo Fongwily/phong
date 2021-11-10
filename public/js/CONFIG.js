@@ -33,7 +33,14 @@ const __DATA__ = {
             'value': 'https://zalo.me/0372458468',
             'type': 0,
         },
-
+        {
+            'image': 'avatar.jpg',
+            'title': 'Instagram',
+            'show-value': 'Nguyễn Phong',
+            'value': 'https://www.instagram.com/ph.ong5374/',
+            'type': 0,
+        },
+       
         {
             'image': 'gmail.jpg',
             'title': 'Gmail',
