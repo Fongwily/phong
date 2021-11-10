@@ -36,7 +36,7 @@ const __DATA__ = {
         {
             'image': 'facebook.jpg',
             'title': 'Instagram',
-            'show-value': 'Nguyễn Phong',
+            'show-value': 'Phong Nguyễn',
             'value': 'https://www.instagram.com/ph.ong5374/',
             'type': 0,
         },
