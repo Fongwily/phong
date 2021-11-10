@@ -40,7 +40,14 @@ const __DATA__ = {
             'value': 'https://www.instagram.com/ph.ong5374/',
             'type': 0,
         },
-       
+        {  
+            'image': 'tiktok.png',
+            'title': 'Tik Tok',
+            'show-value': 'Maru',
+            'value': 'https://www.tiktok.com/@maruvv.uwu',
+            'type': 0,
+        },
+        
         {
             'image': 'gmail.jpg',
             'title': 'Gmail',
