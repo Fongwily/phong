@@ -34,7 +34,7 @@ const __DATA__ = {
             'type': 0,
         },
         {
-            'image': 'facebook.jpg',
+            'image': 'instagram-logo-041EABACE1-seeklogo.com.png',
             'title': 'Instagram',
             'show-value': 'Phong Nguyễn',
             'value': 'https://www.instagram.com/ph.ong5374/',
