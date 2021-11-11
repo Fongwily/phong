@@ -156,7 +156,7 @@ body {
     position: absolute;
     font-size: 12px;
     bottom: 15px;
-    color: #f7f2ff;
+    color: #af92de;
     font-weight: 500;
 }
 
@@ -185,7 +185,7 @@ body {
     grid-template-columns: 70px auto 65px;
     height: 70px;
     width: 100%;
-    background-color: ##1a1b1c;
+    background-color: #eeeeee;
     border-radius: 20px;
     margin-bottom: 15px;
     -webkit-box-shadow: 7px 7px 20px -5px rgba(0, 0, 0, 0.4);
