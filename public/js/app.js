@@ -46,11 +46,11 @@ $(document).ready(function() {
     for (let i = 0; i < skills.length; i++) {
         if (i % 2 == 0) {
             skills_html += `
-                <div class="skill-item" style="color: #72cfd4;" >${skills[i]}</div>
+                <div class="skill-item" style="color: #af92de;" >${skills[i]}</div>
             `;
         } else {
             skills_html += `
-                <div class="skill-item" style="color: #72cfd4;" >${skills[i]}</div>
+                <div class="skill-item" style="color: #af92de;" >${skills[i]}</div>
             `;
         }
     }
