@@ -15,7 +15,7 @@ const __DATA__ = {
         
     ],
     'bio-storys': [{
-        'image': 'avatar.jpg',
+        'image': 'cover.jpg',
         'content': 'Giới thiệu',
         'author': 'hellomoinguoiminhlaPhongday<3',
     }, ],
