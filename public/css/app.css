@@ -42,7 +42,7 @@ body {
     width: 411px;
     max-width: 411px;
     min-height: 823px;
-    background-color: #b4c4d4;
+    background-color: #FFFFFF;
     border-radius: 30px;
     -webkit-box-shadow: 7px 7px 20px -5px rgba(0, 0, 0, 0.4);
     box-shadow: 7px 7px 20px -5px rgba(0, 0, 0, 0.1);
@@ -156,7 +156,7 @@ body {
     position: absolute;
     font-size: 12px;
     bottom: 15px;
-    color: #587FE1;
+    color: #f7f2ff;
     font-weight: 500;
 }
 
@@ -185,7 +185,7 @@ body {
     grid-template-columns: 70px auto 65px;
     height: 70px;
     width: 100%;
-    background-color: #eeeeee;
+    background-color: ##1a1b1c;
     border-radius: 20px;
     margin-bottom: 15px;
     -webkit-box-shadow: 7px 7px 20px -5px rgba(0, 0, 0, 0.4);
