@@ -23,7 +23,7 @@ const __DATA__ = {
             'image': 'facebook.jpg',
             'title': 'Facebook',
             'show-value': '@pog171206',
-            'value': 'https://www.facebook.com/pog171206/',
+            'value': 'https://www.facebook.com/profile.php?id=100055225954546',
             'type': 0,
         },
         {
