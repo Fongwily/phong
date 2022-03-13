@@ -23,7 +23,7 @@ const __DATA__ = {
             'image': 'facebook.jpg',
             'title': 'Facebook',
             'show-value': '@pog171206',
-            'value': 'https://www.facebook.com/profile.php?id=100055225954546',
+            'value': 'https://www.facebook.com/yeee11711295',
             'type': 0,
         },
         {
@@ -58,8 +58,8 @@ const __DATA__ = {
         {
             'image': 'phone.jpg',
             'title': 'MB Bank',
-            'show-value': '00000000',
-            'value': '00000000',
+            'show-value': '0372458468',
+            'value': '0372458468',
             'type': 1,
         },
         {
