@@ -9,7 +9,7 @@ const __DATA__ = {
     'skills': [
         'Singer',
         'Chef',
-        'Simple',
+        '',
         'Alone',
         
         
@@ -37,14 +37,14 @@ const __DATA__ = {
             'image': 'instagram.png',
             'title': 'Instagram',
             'show-value': 'Phong Nguyễn',
-            'value': 'https://www.instagram.com/ph.ong5374/',
+            'value': 'https://www.instagram.com/phuong.8179/',
             'type': 0,
         },
         {  
             'image': 'tiktok.png',
             'title': 'Tik Tok',
             'show-value': 'Maru',
-            'value': 'https://www.tiktok.com/@maruvv.uwu',
+            'value': 'https://www.tiktok.com/@mir2.000',
             'type': 0,
         },
         
@@ -65,8 +65,8 @@ const __DATA__ = {
         {
             'image': 'momo.jpg',
             'title': 'MoMo',
-            'show-value': '00000000',
-            'value': '00000000',
+            'show-value': '0372458468',
+            'value': '',
             'type': 1,
         }
     ]
